@@ -628,3 +628,28 @@ POSTeD CONTENT */
 .liveFeed {
     min-width: 348px;
 }
+
+/* 
+LOGIN */
+
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login img {
+    width: 240px;
+}
+
+.loginButton {
+    display: flex;
+    align-items: center;
+    flex: 1 0 stretch;
+}
+
+.loginButton img {
+    cursor: pointer;
+}
